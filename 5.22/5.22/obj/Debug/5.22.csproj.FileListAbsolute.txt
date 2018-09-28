@@ -1,0 +1,7 @@
+H:\C#\Chpt5\5.22\5.22\bin\Debug\5.22.exe.config
+H:\C#\Chpt5\5.22\5.22\bin\Debug\5.22.exe
+H:\C#\Chpt5\5.22\5.22\bin\Debug\5.22.pdb
+H:\C#\Chpt5\5.22\5.22\obj\Debug\5.22.csprojAssemblyReference.cache
+H:\C#\Chpt5\5.22\5.22\obj\Debug\5.22.csproj.CoreCompileInputs.cache
+H:\C#\Chpt5\5.22\5.22\obj\Debug\5.22.exe
+H:\C#\Chpt5\5.22\5.22\obj\Debug\5.22.pdb
